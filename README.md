@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yunjo's%20github&fontSize=75)
+ ![header="center"](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yunjo's%20github&fontSize=75)
 
 <h3 text align ="center">📚STACKS</h3><br>
 <p text align="center">

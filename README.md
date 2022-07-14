@@ -1,16 +1,5 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Seun's%20github&fontSize=75)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yunjo's%20github&fontSize=75)
 
-
-
-
-# Interested in 🧐</br>
-### DBA
-### Data engineering
-
-
-### To be the best</br>
-# Strength 💪
-### Grit
 
 
 
@@ -29,5 +18,5 @@
 <br>
    
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yiseun)](https://solved.ac/yiseun)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yunjo1734)](https://solved.ac/yiseun)
 
